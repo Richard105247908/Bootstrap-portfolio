@@ -10,7 +10,7 @@ Welcome to my portfolio!
 
 ## Live site link
 Here is the link of deployed website
-[Bootstrap-Portfolio]
+[Bootstrap-Portfolio](https://richard105247908.github.io/Bootstrap-portfolio/)
 
 ## Github repo link
 Here is the link of Github repo
